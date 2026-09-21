@@ -38,7 +38,7 @@ See [MANIFEST.md](MANIFEST.md) for the full statement of purpose.
 
 ## How it works (intended)
 
-The platform cycles through solving one global task at a time:
+The pilot will focus on one task at a time:
 
 ```
 active → resolved → voting → tallying → next_active
